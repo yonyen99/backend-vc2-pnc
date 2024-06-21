@@ -40,8 +40,8 @@
 
 ## Credentials
 - #### Admin
-- email: admin@admin.com
+- email: admin@gmail.com
 - password : password
-- #### Writer
-- email: writer@writer.com
+- #### User
+- email: user@gmail.com
 - password: password
